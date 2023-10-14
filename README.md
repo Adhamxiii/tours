@@ -39,7 +39,7 @@ To use this application:
 
 ## Demo
 
-You can see a live demo of the application [here](demo-url).
+You can see a live demo of the application [here](https://tours-seven-gamma.vercel.app/).
 
 ## Getting Started
 
